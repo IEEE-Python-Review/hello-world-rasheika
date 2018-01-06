@@ -11,4 +11,6 @@ Write a program that will display the following
 * I'd much rather you 'not'.
 * I "said" do not touch this.
 
-#DO NOT CHANGE THE NAME OF THE .py FILES
+Clone the repo and add the code to HelloWorld.py
+
+# DO NOT CHANGE THE NAME OF THE .py FILES
