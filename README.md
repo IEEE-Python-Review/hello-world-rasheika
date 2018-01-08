@@ -1,5 +1,7 @@
 # PyReview
 
+[![Build Status](https://travis-ci.org/IEEE-Python-Review/HelloWorld.svg?branch=master)](https://travis-ci.org/IEEE-Python-Review/HelloWorld)
+
 ## Hello-World
 
 Write a program that will display the Hello World!!!
